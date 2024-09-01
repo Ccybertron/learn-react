@@ -6,7 +6,8 @@ Projects: Fun, practical React projects to build your skills.
 
 
 Credits:
-I would like to give a special thanks to the YouTube Channel (chai aur React) hiteshchoudhary , whose superb tutorials enabled me to understand React and subsequently develop this project. Thank you for sharing very useful content with us; I really appreciate it.
+I would like to give a special thanks to the YouTube Channel (chai aur React) hiteshchoudhary , whose superb tutorials enabled me to understand React.
+Thank you for sharing very useful content with us; I really appreciate it.
 Link to playlist : https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige
 
 🤔 Contributing
